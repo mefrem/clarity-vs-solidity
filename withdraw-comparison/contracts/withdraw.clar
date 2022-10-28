@@ -1,0 +1,10 @@
+(define-public (withdraw-balance)
+  (let (
+      (amountToWithdraw (default-to u0 (map-get? user-balances tx-sender)))
+      (user tx-sender)
+    )
+    (map-set user-balances user u0)
+    (try! (as-contract (stx-transfer? amountToWithdraw tx-sender user)))
+    (ok amountToWithdraw)
+  )
+)
