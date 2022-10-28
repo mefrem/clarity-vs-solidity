@@ -17,7 +17,7 @@ Rekt keeps a [leaderboard of smart contract hacks](https://rekt.news/leaderboard
 
 Clarity is the answer to the question: What would a predictable, secure smart contract programming language look like that incorporates the painful lessons of the first generation of decentralized finance and NFTs?
 
-## Watch or Read More
+## Learn More
 - ["Web3 Programming Languages: Clarity vs. Solidity"](https://www.hiro.so/blog/web3-programming-languages-clarity-vs-solidity) by Max Efremov, developer advocate at Hiro
 - [Clarity vs. Solidity: A Web3 Programming Language Workshop](https://youtu.be/L8EN6PmMEPY) [YouTube, 52:27]
 
